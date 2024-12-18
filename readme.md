@@ -1,10 +1,10 @@
 ### LAB - 1
-1. [Draw a rectangle,line,circle]()(https://github.com/shakurShirajul/cpp-graphics/blob/main/LAB-1/lab-1-1.cpp)
-2. [Colorful Hello World with large font size]()(https://github.com/shakurShirajul/cpp-graphics/blob/main/LAB-1/lab-1-2.cpp)      
-3. [Display image]()(https://github.com/shakurShirajul/cpp-graphics/blob/main/LAB-1/lab-1-3.cpp)
+1. [Draw a rectangle,line,circle](https://github.com/shakurShirajul/cpp-graphics/blob/main/LAB-1/lab-1-1.cpp)
+2. [Colorful Hello World with large font size](https://github.com/shakurShirajul/cpp-graphics/blob/main/LAB-1/lab-1-2.cpp)      
+3. [Display image](https://github.com/shakurShirajul/cpp-graphics/blob/main/LAB-1/lab-1-3.cpp)
 ### LAB - 2
-1. [Draw a rectangle,line,circle]()(https://github.com/shakurShirajul/cpp-graphics/blob/main/LAB-2/lab-2-1.cpp)
-2. [Draw A B]()(https://github.com/shakurShirajul/cpp-graphics/blob/main/LAB-2/lab-2-2.cpp) 
+1. [Draw a rectangle,line,circle](https://github.com/shakurShirajul/cpp-graphics/blob/main/LAB-2/lab-2-1.cpp)
+2. [Draw A B](https://github.com/shakurShirajul/cpp-graphics/blob/main/LAB-2/lab-2-2.cpp) 
 3. [Bangla ka kha](https://github.com/shakurShirajul/cpp-graphics/blob/main/LAB-2/lab-2-3.cpp) 
 4. [Draw A smily Face](https://github.com/shakurShirajul/cpp-graphics/blob/main/LAB-2/lab-2-4.cpp) 
 5. [Draw Bangladeshi flag](https://github.com/shakurShirajul/cpp-graphics/blob/main/LAB-2/lab-2-5.cpp) 
